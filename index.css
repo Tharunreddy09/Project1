@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-food{
+background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+height: 100vh;
+width: 100vw;
+background-size: cover;
+margin-top: 30px;
+}
+#nav-item1{
+    color: black;
+    font-family: 'Roboto';
+}
+#nav-item2{
+    color: black;
+    font-family: 'Roboto';
+}
+#nav-item3{
+    color: black;
+    font-family: 'Roboto';
+}
+#nav-item4{
+    color: black;
+    font-family: 'Roboto';
+}
+body{
+    margin: 0;
+}
+.start{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+.para{
+    font-size: 20px;   
+}
+.b1{
+    border-color: yellow !important;
+}
+.second{
+    padding-top: 25px;
+    padding-left: 100px;
+}
+.img{
+    height: 80px;
+    width: 80px;
+}
+.choose-cards{
+    height: 80% !important;width: 30%;
+    padding-right: 10px;
+}
+.explore{
+    padding-top: 25px;
+    padding-left: 100px;
+    
+}
+.explore-card{
+    margin: 50px;
+    border-radius: 20px;
+}
+.img1{
+    height: 200px;
+    width: 200px;
+    
+    border-radius: 16px;
+    /* padding-bottom: 20px; */
+}
+.third{
+    padding: 100px;
+}
+.img2{
+    height: 200px;
+    width: 200px;
+    
+}
+.heading{
+            color: #183b56;
+            font-family: "Roboto";
+            font-size: 28px;
+            font-weight: 700;
+        }
+.p{
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.third-content{
+    margin-left: 200px;
+}
+.fourth-content{
+    margin-right: 200px;
+}
+.img3{
+    height:55px;
+    width: 55px;
+    padding: 10px;
+}
+.fourth {
+    padding: 100px;
+}
+.thanks{
+    padding: 100px;
+    background-image: radial-gradient(#fff8db, #fae38c);
+   margin: 0;
+}
+.img4{
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+    padding-bottom: 20px !important;
+    }
+    
+.b1{
+    padding: 30%;
+}
+.follow{
+        text-align: center;
+        color: #183b56;
+        font-family: "Roboto " !important;
+        font-size: 28px;
+        font-weight: 700;
+        margin: 20px;
+}
+.follow-us-icon-container {
+    background-image: radial-gradient(#fff8db, #fae38c);
+    width: 80px;
+    height: 80px;
+    border-radius: 60px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+.final{
+    margin-top: 20px;
+    background-color:#0d2436;;
+}
+.img5{
+    height: 55px;
+    width: 55px;
+}
+.para-text{
+        color: #959ead;
+            font-family: "Roboto";
+            font-weight: bold;
+            font-size: 16px;
+            margin-top: 20px;
+}
+.final-card{
+    text-align: center;
+    padding: 25px;
+}
